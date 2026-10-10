@@ -10,6 +10,8 @@ cache-parity.ko
 mtk_sync.ko
 mtk_disp_notify.ko
 mtk_printk_ctrl.ko
+zsmalloc.ko
+zram.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
@@ -156,6 +158,7 @@ pwm-mtk-disp.ko
 leds-mtk.ko
 leds-mtk-disp.ko
 leds-mtk-pwm.ko
+ledtrig-backlight-drm.ko
 extcon-mtk-usb.ko
 tcpci_late_sync.ko
 mtk-mbox-mailbox.ko
