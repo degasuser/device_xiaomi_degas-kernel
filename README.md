@@ -79,3 +79,5 @@ Their work has been a valuable reference during the development of this project.
 ## 📄 License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the **GNU General Public License version 2.0** as published by the Free Software Foundation. See the [LICENSE](LICENSE) file for the full license text.
+
+See [STOCK_PROVENANCE.md](STOCK_PROVENANCE.md) for the exact prebuilt source.
