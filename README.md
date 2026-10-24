@@ -74,3 +74,5 @@ Under Section 3 of the GNU General Public License v2.0, the corresponding source
 ## 📄 License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the **GNU General Public License version 2.0** as published by the Free Software Foundation. See the [LICENSE](LICENSE) file for the full license text.
+
+See [STOCK_PROVENANCE.md](STOCK_PROVENANCE.md) for the exact prebuilt source.
