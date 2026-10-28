@@ -67,7 +67,12 @@ Under Section 3 of the GNU General Public License v2.0, the corresponding source
 * **Xiaomi Communications Co., Ltd.** — Device drivers, board configuration, and hardware bringup.
 * **MediaTek Inc.** — MT6897 platform BSP, drivers, and SoC architecture support.
 * **The LineageOS Project** — AOSP/LineageOS GKI infrastructure.
-* **Maintainer**: degasuser (`kudaskinroman5@gmail.com`).
+* **Maintainer**: degasuser
+## Special Thanks
+
+Special thanks to the mt6987-devs team for their contributions to MediaTek device development and the resources that helped with the Xiaomi 14T ("degas") bring-up.
+
+Their work has been a valuable reference during the development of this project.
 
 ---
 
