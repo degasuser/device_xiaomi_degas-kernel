@@ -24,7 +24,7 @@ Kernel repository for the **Xiaomi 14T** (code-named **`degas`**, model `2406APN
 | **Device** | Xiaomi 14T (`degas` / `2406APNFAG`) |
 | **SoC** | MediaTek Dimensity 8300-Ultra (`MT6897`) |
 | **Architecture** | ARM64 (`aarch64`) - Cortex-A715 + Cortex-A510 |
-| **Linux Kernel Base** | `6.1.138-android14-11` (GKI v4) |
+| **Linux Kernel Base** | `6.1.157-android14-11` (GKI v4, HyperOS OS3.0.306.0.WNEEUXM) |
 | **Page Size** | 4096 bytes |
 | **Header Version** | GKI v4 (`vendor_boot` / `boot`) |
 | **DTB / DTBO** | MediaTek MT6897 DTB (`mt6897.dtb`) + Xiaomi overlay |
@@ -79,3 +79,5 @@ Their work has been a valuable reference during the development of this project.
 ## 📄 License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the **GNU General Public License version 2.0** as published by the Free Software Foundation. See the [LICENSE](LICENSE) file for the full license text.
+
+See [STOCK_PROVENANCE.md](STOCK_PROVENANCE.md) for the exact prebuilt source.
